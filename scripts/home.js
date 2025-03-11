@@ -77,5 +77,5 @@ function navigateMovie(e)
 function navigateSeries(e)
 {
 
-    location.href = `series.html${e.currentTarget.id}`
+    location.href = `series.html?id=${e.currentTarget.id}`
 }
