@@ -1,0 +1,33 @@
+Movies & Series Website Report
+
+Name: Eslam Radwan
+
+1. Introduction
+
+Develop a Movies & TV Series website using Bootstrap and JavaScript for frontend and authentication via Local Storage
+
+2. Features
+
+Core Features
+
+User Authentication: Sign-up/login with Local Storage
+
+Movies & Series Display: Homepage listing, detailed pages with title, genre, duration, overview, cast, and trailer for movies only.
+
+UI Framework: Bootstrap.
+
+3. Technology Stack
+
+Frontend: HTML, CSS, Bootstrap, JavaScript (ES6)
+
+Data & Authentication: TMDb API, Local Storage
+
+
+4. Implementation Approach
+
+Frontend: Bootstrap Cards t.
+
+Authentication: Secure Local Storage or Cookies validation.
+
+Details Page: Interactive UI with structured movie details.
+
