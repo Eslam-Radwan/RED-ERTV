@@ -1,6 +1,6 @@
 const search = new URLSearchParams(window.location.search)
 const movieId = search.get('id')
-const apiKey = 'e96d3e0f2b1645440183370c85a0424e'
+const apiKey = '6e725152d804494265691835d4b7bb1a'
 const movieDiv = document.querySelector('.movie')
 
 async function getMovieObject()

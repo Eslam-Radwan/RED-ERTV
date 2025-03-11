@@ -1,4 +1,4 @@
-const apiKey = 'e96d3e0f2b1645440183370c85a0424e'
+const apiKey = '6e725152d804494265691835d4b7bb1a'
 const popularMoviesUrl = 'https://api.themoviedb.org/3/movie/top_rated'
 
 
